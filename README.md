@@ -1,13 +1,14 @@
 # retro-calculator
 From auto-layout tour (https://github.com/qilytquang/auto-layout)
 
-Still working on it (completed the UI, custom fonts, playing audo files)...
+Completed the UIs, custom fonts, playing audo files, math and logic, handle some error
 
 ### What did I learn at this project:
 * `UIStackView & autolayout`
 * `Custom priorities to make more responsive`
 * `Custom fonts on iOS 10`
 * `Playing audio files on iOS 10`
+* `Math and logic with retro calculator`
 
 #### Screenshots
 [id1]: /screenshot1.png "Screenshot 1 of RetroCalculator"
